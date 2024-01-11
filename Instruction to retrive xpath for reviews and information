@@ -1,0 +1,9 @@
+Instruction to retrive xpath for reviews and information:
+
+Go to GoogleMaps page that you need to scrap
+Press F12 key (command+option+U on Mac) to be able to see the html code
+Activate inspector key with ctrl+shift+C (command+option+I on Mac)
+Click on Reviews or Information button and html code will be evidenced on right side
+Select html code begining with "button" and right click on it
+On menu list go to Copy and then select "Copy XPath"
+Now you can parse the xpath in your code here above
