@@ -1,12 +1,4 @@
-- 👋 Hi, I’m Mirco
-- 👀 I’m interested in smart and useful coding
-- 🌱 I’m currently learning Back-End Web Developer
-- 💞️ I’m looking to collaborate on ... I have to check what!
-- 📫 How to reach me: mvdenmark@gmail.com
-- 😄 Pronouns: ... what?!
-- ⚡ Fun fact: Once I thought that I knew how code in Python...
-
-<!---
-MV2290/MV2290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The script permits to scrape a specific GoogleMaps page without needing of GoogleMaps API. Information obtained from script are general overview, information page and reviews.
+The script is designed completly online, from the platform to output. For this reason you need to connect your GoogleDrive to Google Colab to deliver data to a Google Sheet saved on your Drive. Organization of output is specified for a given template.
+Remember, the time of scraping depends from your connection and how many reviews are inside website.
+For a script overview refer to GMS_overview picture.
