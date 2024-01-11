@@ -7,3 +7,5 @@ Click on Reviews or Information button and html code will be evidenced on right 
 Select html code begining with "button" and right click on it
 On menu list go to Copy and then select "Copy XPath"
 Now you can parse the xpath in your code here above
+
+ps Most of the time, xpath is the same, so you don't need to replace it every time you run the code, only when you get the error message from the last code indicating "Xpath not found"
